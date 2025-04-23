@@ -11,4 +11,4 @@ g++ -o CoolMovie.exe movie.cpp -lgdi32 -mwindows
 - Release `Spacebar` to launch the bubble.
 
 ## Output
-Program will run for 30 seconds while capturing the frame. It will be stored in [CoolMovie.anim]
+Program will run for 30 seconds while capturing the frame. It will be stored in 'CoolMovie.anim'
